@@ -1,0 +1,125 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.home,
+.services,
+.about-us,
+.contact,
+.events,
+.signup,
+.connect,
+.policy,
+.contacts,
+.usefullinks{
+    display: flex;
+    margin-left: 260px;
+    font-size: 2rem;
+}
+
+
+
+
+.home {
+    background-image: url('./images/img-6.jpg');
+    background-position: left;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 80vh;
+    margin-top: -100px;
+    margin-left: 0px;
+}
+
+
+
+.about-us {
+    background-image: url('./images/img-3.jpg');
+    margin-left: 0px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 80vh;
+    margin-top: 0px;
+}
+
+.signup {
+    background-image: url('./images/img-4.jpg');
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 80vh;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+.contact {
+    background-image: url('./images/img-2.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 80vh;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
+.services {
+    background-image: url('./images/img-5.jpg');
+    background-position: center;
+    background-size: cover;
+    margin-left: 0px;
+    background-repeat: no-repeat;
+    height: 80vh;
+    margin-top: 0px;
+}
+
+.events {
+    background-image: url('./images/img-7.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 80vh;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
+.connect {
+    background-image: url('./images/img-11.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 80vh;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
+.contacts {
+    background-image: url('./images/img-9.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 80vh;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
+.policy {
+    background-image: url('./images/img-10.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 80vh;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
+.usefullinks {
+    background-image: url('./images/img-12.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 80vh;
+    margin-left: 0px;
+    margin-top: 0px;
+}
